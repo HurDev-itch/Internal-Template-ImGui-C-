@@ -19,4 +19,4 @@ An **educational template** for creating an **internal ImGui menu** in C++ for U
 ## 🚀 Installation
 
 1. Download the source from the link (idk how to publish packages and im too lazy):  
-![https://cdn.discordapp.com/attachments/1373690252857970801/1479568349007577328/InternalTemplate.zip?ex=69ac82e7&is=69ab3167&hm=bed77a18a507e155ede64f11a8fb22e2f2ea50145c43bb95b19591ba04e0e182&](https://img.shields.io/badge/DOWNLOAD-Source-8A2BE2)
+![URL](https://img.shields.io/badge/DOWNLOAD-Source-8A2BE2) https://cdn.discordapp.com/attachments/1373690252857970801/1479568349007577328/InternalTemplate.zip?ex=69ac82e7&is=69ab3167&hm=bed77a18a507e155ede64f11a8fb22e2f2ea50145c43bb95b19591ba04e0e182&
