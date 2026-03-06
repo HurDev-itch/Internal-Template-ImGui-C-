@@ -7,13 +7,6 @@ An **educational template** for creating an **internal ImGui menu** in C++ for U
 
 ---
 
-## 📸 Preview
-
-![Menu Preview](https://user-images.githubusercontent.com/placeholder/menu-preview.png)  
-*Example of an internal ImGui menu with sliders, buttons, and checkboxes.*
-
----
-
 ## ⚡ Features
 
 - Basic internal menu using **C++ and ImGui**  
