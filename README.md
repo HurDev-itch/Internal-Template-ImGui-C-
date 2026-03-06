@@ -27,4 +27,4 @@ An **educational template** for creating an **internal ImGui menu** in C++ for U
 
 1. Clone the repository:  
 ```bash
-git clone [https://github.com/your-username/ImGuiInternalMenuTemplate.git](https://github.com/HurDev-itch/Internal-Template-ImGui-C-.git)
+git clone https://github.com/HurDev-itch/Internal-Template-ImGui-C-.git
