@@ -1,10 +1,9 @@
-ImGui Internal Menu Template for C++ (UE5) 🎮
-
+# ImGui Internal Menu Template for C++ (UE5) 🎮
+https://img.shields.io/badge/license-MIT-green
 Template éducative pour créer un menu interne ImGui en C++ pour les jeux Unreal Engine 5 (UE5).
 ⚠️ À but éducatif uniquement – conçu pour apprendre la création de menus internes et la manipulation d’UI dans les jeux.
 
 📸 Aperçu
-
 
 Exemple de menu interne ImGui avec sliders, boutons et checkboxes.
 
